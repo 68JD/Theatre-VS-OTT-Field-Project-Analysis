@@ -1,4 +1,4 @@
-🎬 OTT vs Theatre Experience – Consumer Behavior Research Presentation
+🎬 OTT vs Theatre Experience – Consumer Behavior Research Analysis
 
 This repository contains an MBA research presentation titled "A Study on Consumer Behaviour Towards OTT Platforms and Theatre Experience." The presentation explores audience preferences, viewing habits, and the factors influencing entertainment consumption through an academic research approach supported by survey-based analysis. It presents key findings using professional charts, infographics, and data visualizations in a clean, modern presentation format.
 
